@@ -3,3 +3,8 @@ DC Comics vs Marvel Comics - Exploratory Data Analysis and Data Visualizatio
 
 ### *Versión en español*
 Marvel Comics vs DC Comics — Análisis exploratorio y Visualización de Datos con R. ¿Quién tiene al héroe o villano más inteligente, hábil, rápido o poderoso? Cómo responder a esta y más preguntas con R. Artículo en Medium: https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2
+
+#### *Project preview*
+https://www.youtube.com/watch?v=nqttpR7WO_c
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqttpR7WO_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
